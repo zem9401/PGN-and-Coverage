@@ -1,0 +1,6 @@
+/homework-week4/datasets/*
+/homework-week4/seq2seq_tf2/datasets/*
+*.class
+!/*.py
+*.idea
+/homework-4/utils/w2v.bin
